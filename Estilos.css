@@ -1,0 +1,15 @@
+    body { font-family: Georgia, serif; background: #ffffff; color: #1b2a3a; margin: 0; line-height: 1.6; }
+    header { background: #75aadb; color: #ffffff; text-align: center; padding: 50px 20px; }
+    section { padding: 30px 20px; max-width: 800px; margin: 0 auto; }
+    .amarillo { background: #f6b40e; }
+    h1, h2 { color: #1b4f8a; }
+    header h1 { color: #ffffff; margin: 10px 0; }
+    nav { background: #1b4f8a; padding: 12px; text-align: center; }
+    nav a { color: #ffffff; margin: 0 10px; text-decoration: none; }
+    nav a:hover { text-decoration: underline; }
+    ul { padding-left: 20px; }
+    a { color: #1b4f8a; }
+    img { display: block; max-width: 100%; max-height: 500px; margin: 20px auto; }
+    summary { cursor: pointer; margin: 10px 0; font-weight: bold; }
+    .mensaje { background: #eaf3fb; padding: 20px; text-align: center; font-style: italic; }
+    footer { background: #75aadb; color: #ffffff; font-size: 0.9rem; text-align: center; padding: 30px 20px; }
